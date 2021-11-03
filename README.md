@@ -33,4 +33,4 @@
 <a href="https://www.youtube.com/channel/UCWFI5HN35DC7kw-D4GZ1d4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
 <a href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a>
 
-</div>
+</div><br>
