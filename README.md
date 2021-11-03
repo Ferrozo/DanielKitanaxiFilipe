@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
 <hr>
 
-  <h1>Hi 👋 , I'm <i>Daniel Kitanaxi Filipe</i></h1>
+  <h1>Hi 👋 , I'm Daniel Kitanaxi Filipe</h1>
   <h4>But I'm known by Daniel Filipe</h4>
   <p>A little about me, I'm a Web Designer and Digital Games Developer, I'm from Angola, luanda province and I work with
     website development and I have a youtube channel where I talk about game development. seems kind of childish but i want to conquer the world</p>
