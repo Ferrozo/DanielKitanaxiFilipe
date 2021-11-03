@@ -34,3 +34,7 @@
 <a href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a>
 
 </div><br>
+<a href="https://github.com/DanielKitanaxiFilipe">
+![snake gif](https://github.com/DanielKitanaxiFilipe/DanielKitanaxiFilipe/blob/output/github-contribution-grid-snake.gif)
+</a>
+
