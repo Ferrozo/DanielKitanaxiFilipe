@@ -27,11 +27,11 @@
  
   <h2>My social networks</h2>
 <a href="https://www.facebook.com/profile.php?id=100050680572102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a> 
-<a href="https://www.instagram.com/danielfilipe7387/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> 
-<a href="https://www.behance.net/danielfilipw"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
-<a href="https://www.linkedin.com/in/daniel-779b9b18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-<a href="https://www.youtube.com/channel/UCWFI5HN35DC7kw-D4GZ1d4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
-<a href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.instagram.com/danielfilipe7387/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> 
+<a target="_blank" href="https://www.behance.net/danielfilipw"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.linkedin.com/in/daniel-779b9b18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCWFI5HN35DC7kw-D4GZ1d4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
+<a target="_blank" href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a>
 <br>
   
   ![Snake animation](https://github.com/DanielKitanaxiFilipe/DanielKitanaxiFilipe/blob/output/github-contribution-grid-snake.svg)
