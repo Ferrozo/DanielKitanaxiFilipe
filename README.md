@@ -6,7 +6,7 @@
   <h4>But I'm known by Daniel Filipe</h4>
   <p>A little about me, I'm a Web Designer and Digital Games Developer, I'm from Angola, luanda province and I work with
     website development and I have a youtube channel where I talk about game development. seems kind of childish but i want to conquer the world</p>
-  <br><br>
+  
   <h2>My skills</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
@@ -32,8 +32,8 @@
 <a href="https://www.linkedin.com/in/daniel-779b9b18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 <a href="https://www.youtube.com/channel/UCWFI5HN35DC7kw-D4GZ1d4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
 <a href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a>
-
-</div><br>
-
+<br>
+  
   ![Snake animation](https://github.com/DanielKitanaxiFilipe/DanielKitanaxiFilipe/blob/output/github-contribution-grid-snake.svg)
-
+  
+</div>
