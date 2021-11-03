@@ -1,6 +1,7 @@
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
 <hr>
-<center>
+
   <h1>Hi 👋 , I'm <i>Daniel Kitanaxi Filipe</i></h1>
   <h5>But I'm known by Daniel Filipe</h5>
   <p>A little about me, I'm a Web Designer and Digital Games Developer, I'm from Angola, luanda province and I work with
@@ -34,6 +35,7 @@
 <a href="https://www.linkedin.com/in/daniel-779b9b18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 <a href="https://www.youtube.com/channel/UCWFI5HN35DC7kw-D4GZ1d4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
 <a href="https://daniel-kitanaxi-filipe.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""></a>
-</center>
+
 
 ![Snake animation](https://github.com/DanielKitanaxiFilipe/DanielKitanaxiFilipe/blob/output/github-contribution-grid-snake.svg)
+</div>
